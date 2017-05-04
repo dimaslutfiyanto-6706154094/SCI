@@ -1,0 +1,44 @@
+#profile {
+	padding:50px;
+	border:1px solid grey;
+	font-size:20px;
+	background-color:#A2DED0;
+}
+#logout {
+	float:right;
+	padding:5px;
+	border:dashed 1px gray
+}
+a {
+	text-decoration:none;
+	color:#6495ed
+}
+i {
+	color:#6495ed
+}
+#header{
+	background: url(header.jpg) repeat-x #555;
+	height : 35px;
+	width : 1338px;
+	padding:5px;
+	overflow : hidden;
+}
+#header img{
+	width:260px;
+}
+#menu-utama{
+	margin-top:3px;
+	list-style:none;
+}
+#menu-utama li{
+	float:left;
+	padding:8px 20px;
+	border-right:1px solid #555555;
+}
+#menu-utama li a{
+	color : #ffffff;
+	text-decoration:none;
+}
+li{
+	list-style:none;
+}
